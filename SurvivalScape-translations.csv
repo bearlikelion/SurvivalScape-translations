@@ -1,79 +1,79 @@
 ﻿keys,en,zh,ru,ko
 ABILITY_RAIN,Rain of Arrows,箭雨,Дождь стрел,화살의 비
-ABILITY_RAIN_DESC,Arrows rain from above,箭雨从天而降,Стрелы сыплются сверху,위에서 화살이 비처럼 쏟아집니다.
+ABILITY_RAIN_DESC,Arrows rain from above,箭雨从天而降,Обрушьте дождь стрел на ваших врагов!,위에서 화살이 비처럼 쏟아집니다.
 ABILITY_RAPIDSHOT,Rapid Shot,快速射击,Быстрый выстрел,래피드 샷
-ABILITY_RAPIDSHOT_DESC,Shoots three arrows in rapid succession,快速连续射出三支箭,Выпускает три стрелы в быстрой последовательности,세 개의 화살을 빠르게 연속으로 쏜다.
+ABILITY_RAPIDSHOT_DESC,Shoots three arrows in rapid succession,快速连续射出三支箭,Выпускает три стрелы подряд,세 개의 화살을 빠르게 연속으로 쏜다.
 ABILITY_SPLITSHOT,Split Shot,分镜头,Сплит-шот,스플릿 샷
 ABILITY_SPLITSHOT_DESC,Shoots a cone of three arrows,射出一个由三支箭组成的圆锥体,Выпускает конус из трех стрел,세 개의 화살로 구성된 원뿔을 쏩니다.
 ABILITY_TRAP,Trap,陷阱,Ловушка,함정
-ABILITY_TRAP_DESC,Leave a trap behind that stuns enemies,在后面留下一个陷阱，让敌人眩晕,"Оставьте позади ловушку, которая оглушает врагов",적을 기절시키는 함정을 남겨 둡니다.
-BACK_TO_MENU,Back to Menu,返回菜单,Назад к меню,메뉴로 돌아가기
+ABILITY_TRAP_DESC,Leave a trap behind that stuns enemies,在后面留下一个陷阱，让敌人眩晕,"Оставляйте за собой ловушку, которая оглушает врагов",적을 기절시키는 함정을 남겨 둡니다.
+BACK_TO_MENU,Back to Menu,返回菜单,Меню,메뉴로 돌아가기
 BOSS_RUSH,Boss Rush,老板冲刺,Босс Раш,보스 러쉬
 CLASS_ARCHER,Archer,射手,Лучник,사수
 CLASS_BEASTMASTER,Beastmaster,兽王,Повелитель зверей,야수조련사
 CLASS_DRUID,Druid,德鲁伊,Друид,사제
 CLASS_KNIGHT,Knight,骑士,Рыцарь,나이트
 CLASS_RANDOM,Select Random Class,选择随机类别,Выберите случайный класс,랜덤 클래스 선택
-CLASS_ROGUE,Rogue,流氓,Жулик,악성
+CLASS_ROGUE,Rogue,流氓,Плут,악성
 CLASS_SHAMAN,Shaman,萨满,Шаман,샤먼
 CLASS_WIZARD,Wizard,巫师,Колдун,마법사
-GAME_NAME,SurvivalScape,生存景观,ВыживаниеСкейп,서바이벌스케이프
+GAME_NAME,SurvivalScape,生存景观,SurvivalScape,서바이벌스케이프
 LEVEL_CHALLENGE,Weekly Challenge,每周挑战,Еженедельное испытание,주간 챌린지
 LEVEL_DESERT,Desert,沙漠,Пустыня,사막
 LEVEL_DUNGEON,Dungeon,地牢,Темница,던전
 LEVEL_GARDEN,Garden,花园,Сад,정원
-LEVEL_ICE,Ice,冰,Лёд,얼음
-LEVEL_SEWER,Sewer,下水道,Канализационная труба,하수도
+LEVEL_ICE,Ice,冰,Вечные льды,얼음
+LEVEL_SEWER,Sewer,下水道,Коллектор,하수도
 LEVEL_VOLCANO,Volcano,火山,Вулкан,화산
-MENU_CREDITS,Credits,学分,Кредиты,크레딧
+MENU_CREDITS,Credits,学分,Разработчики,크레딧
 MENU_FEEDBACK,Feedback,反馈,Обратная связь,피드백
 MENU_GUIDE,Player Guide,玩家指南,Руководство игрока,플레이어 가이드
-MENU_LEVELS,Levels,水平,Уровней,수준
+MENU_LEVELS,Levels,水平,Уровни,수준
 MENU_LEVELSELECT,Level Select,级别选择,Выбор уровня,레벨 선택
-MENU_PATCH,Patch Notes,补丁说明,Описание обновления,패치 노트
-MENU_PREVIOUSRUNS,Previous Runs,以前的运行,Предыдущие запуски,이전 실행
-MENU_QUIT,Quit,退出,Покидать,사임하다
+MENU_PATCH,Patch Notes,补丁说明,Обновления,패치 노트
+MENU_PREVIOUSRUNS,Previous Runs,以前的运行,Статистика забегов,이전 실행
+MENU_QUIT,Quit,退出,Выйти,사임하다
 MENU_SETTINGS,Settings,设置,Параметры,설정
-MENU_START,Start,开始,Начало,시작하다
+MENU_START,Start,开始,Играть,시작하다
 MENU_STATS,Career Stats,职业统计,Статистика карьеры,커리어 스탯
 PR_CLASS,Class,类,Класс,수업
 PR_LEVEL,Level,水平,Уровень,수준
 PR_OUTCOME,Outcome,结果,Результат,결과
 PR_SCORE,Score,得分,Счёт,점수
 SELECT_CLASS,Select Class,选择班级,Выберите класс,클래스 선택
-MENU_DISCORD,Join the Discord,加入 Discord,Присоединяйтесь к Discord,디스코드에 참여하세요
+MENU_DISCORD,Join the Discord,加入 Discord,Присоединяйтесь в Discord,디스코드에 참여하세요
 ABILITY_AXARANG,Axarang,阿克萨朗,Аксаранг,엑사랑
-ABILITY_AXARANG_DESC,Throw an axe that flies back to you,扔出一把斧头，飞回你身边,"Брось топор, который летит обратно к тебе",당신에게 다시 날아가는 도끼를 던집니다.
-ABILTIY_SHIELDSPIN,Shield Spin,盾牌旋转,Вращение щита,쉴드 스핀
+ABILITY_AXARANG_DESC,Throw an axe that flies back to you,扔出一把斧头，飞回你身边,"Выпускает возвращающийся к персонажу топор",당신에게 다시 날아가는 도끼를 던집니다.
+ABILTIY_SHIELDSPIN,Shield Spin,盾牌旋转,Вращающийся щит,쉴드 스핀
 ABILTIY_SHIELDSPIN_DESC,Throw a shield that circles you,扔一个围着你转的盾牌,"Бросьте щит, который кружит вокруг вас",당신을 둘러싸는 방패를 던집니다.
-ABILITY_SWIPE,Swipe,刷卡,Стянуть,슬쩍
+ABILITY_SWIPE,Swipe,刷卡,Взмах,슬쩍
 ABILITY_SWIPE_DESC,A large swipe,大扫除,Большой взмах,큰 스와이프
 ABILITY_BUBBLE,Bubble Shield,泡泡盾,Пузырьковый щит,버블 쉴드
-ABILITY_BUBBLE_DESC,A bubble to stop a hit of damage,一个气泡，可以阻止一击伤害,"Пузырь, чтобы остановить удар урона",피해를 막는 버블
+ABILITY_BUBBLE_DESC,A bubble to stop a hit of damage,一个气泡，可以阻止一击伤害,"Пузырь защищающий от одного попадания",피해를 막는 버블
 ABILITY_POISON,Poison,毒,Яд,독
 ABILITY_POISON_DESC,A poison that slows enemies,一种可以减缓敌人速度的毒药,"Яд, замедляющий врагов",적을 느려지게 하는 독
-ABILITY_FAN,Fan,扇,Вентилятор,팬
-ABILITY_FAN_DESC,Toss a fan of knives forward,向前扔一把刀,Подбросьте веер ножей вперед,칼 부채를 앞으로 던집니다.
-ABILITY_SPLINTER,Splinter,碎片,Осколок,나무 조각
-ABILITY_SPLINTER_DESC,A knife that splinters into bits,一把劈成碎片的刀,"Нож, который раскалывается на куски",조각으로 쪼개지는 칼
-ABILITY_SHURIKEN,Shuriken,手里剑,Сюрикены,암기
-ABILITY_SHURIKEN_DESC,A shuriken that jumps between enemies,在敌人之间跳跃的手里剑,"Сюрикен, который прыгает между врагами",적 사이를 점프하는 수리검
+ABILITY_FAN,Fan,扇,Веер ножей,팬
+ABILITY_FAN_DESC,Toss a fan of knives forward,向前扔一把刀,Выпускает веер ножей вперед,칼 부채를 앞으로 던집니다.
+ABILITY_SPLINTER,Splinter,碎片,Расщепляющийся нож,나무 조각
+ABILITY_SPLINTER_DESC,A knife that splinters into bits,一把劈成碎片的刀,"Выпускает нож, который раскалывается на куски",조각으로 쪼개지는 칼
+ABILITY_SHURIKEN,Shuriken,手里剑,Сюрикен,암기
+ABILITY_SHURIKEN_DESC,A shuriken that jumps between enemies,在敌人之间跳跃的手里剑,"Сюрикен, отскакивающий от врагов",적 사이를 점프하는 수리검
 ABILITY_LIGHTNING,Lightning,闪电,Молния,번개
 ABILITY_LIGHTNING_DESC,Lighting strike in an area,一个区域的雷击,Удар молнии в области,한 지역에서 낙뢰
 ABILITY_STARFALL,Starfall,星陨,Звездопад,별똥별
-ABILITY_STARFALL_DESC,A star falls onto an enemy,一颗星星落在敌人身上,Звезда падает на врага,별이 적에게 떨어집니다.
+ABILITY_STARFALL_DESC,A star falls onto an enemy,一颗星星落在敌人身上,Обрушьте звезду на своих врагов,별이 적에게 떨어집니다.
 ABILITY_SPLASH,Splash,溅,Всплеск,튀김
 ABILITY_SPLASH_DESC,A splash of water strikes enemies,一滴水花击中敌人,Брызги воды поражают врагов,물이 튀는 소리가 적을 강타합니다.
-ABILITY_MAGICMISSILE,Magic Missile,魔术导弹,Волшебная ракета,마법 미사일
-ABILITY_MAGICMISSILE_DESC,Three rapid casts of a magic missile,一枚神奇导弹的三次快速施放,Три быстрых применения волшебной ракеты,마법 미사일을 빠르게 세 번 시전합니다.
+ABILITY_MAGICMISSILE,Magic Missile,魔术导弹,Магический снаряд,마법 미사일
+ABILITY_MAGICMISSILE_DESC,Three rapid casts of a magic missile,一枚神奇导弹的三次快速施放,Три быстрых применения магического снаряда,마법 미사일을 빠르게 세 번 시전합니다.
 ABILITY_TORNADO,Tornado,龙卷风,Торнадо,토네이도
 ABILITY_TORNADO_DESC,Summon a tornado,召唤龙卷风,Вызовите торнадо,토네이도 소환
-ABILITY_ENTANGLE,Entangle,缠绕,Запутать,얽히게
+ABILITY_ENTANGLE,Entangle,缠绕,Опутывание,얽히게
 ABILITY_ENTANGLE_DESC,Damages and stuns enemies,伤害和眩晕敌人,Наносит урон и оглушает врагов,적에게 피해를 주고 기절시킵니다.
-ABILITY_WILDFIRE,Wildfire,野火,Греческий огонь,들불
+ABILITY_WILDFIRE,Wildfire,野火,Дикий огонь,들불
 ABILITY_WILDFIRE_DESC,Damages enemies in an area,对区域内的敌人造成伤害,Наносит урон врагам в области,일정 지역 안의 적들에게 피해를 줍니다
 ABILITY_WISP,Spirit Wisp,灵缕,Духовный огонек,영혼 위습
-ABILITY_WISP_DESC,Wisps circle the Druid,缕缕围绕着德鲁伊,Огоньки окружают друида,위습이 드루이드 주위를 맴돌고 있습니다.
+ABILITY_WISP_DESC,Wisps circle the Druid,缕缕围绕着德鲁伊,Огоньки вращаются вокруг друида,위습이 드루이드 주위를 맴돌고 있습니다.
 ABILITY_FIRETOTEM,Fire Totem,火图腾,Тотем огня,화염 토템
 ABILITY_FIRETOTEM_DESC,Shoots a fireball,发射火球,Стреляет огненным шаром,화염구를 쏜다.
 ABILITY_FEARTOTEM,Fear Totem,恐惧图腾,Тотем страха,공포의 토템
@@ -81,38 +81,38 @@ ABILITY_FEARTOTEM_DESC,Fears and damages enemies,恐惧和伤害敌人,Пуга�
 ABILITY_EARTHTOTEM,Earth Totem,地球图腾,Тотем Земли,대지의 토템
 ABILITY_EARTHTOTEM_DESC,Stuns and damages enemies,眩晕和伤害敌人,Оглушает и наносит урон врагам,적을 기절시키고 피해를 줍니다.
 ABILITY_CHAINLIGHTNING,Chain Lightning,链式闪电,Цепная молния,연쇄 번개
-ABILITY_CHAINLIGHTNING_DESC,Lightning that jumps to enemies,闪电跳向敌人,"Молния, которая прыгает к врагам",적에게 점프하는 번개
+ABILITY_CHAINLIGHTNING_DESC,Lightning that jumps to enemies,闪电跳向敌人,"Молния, поражающая нескольких врагов",적에게 점프하는 번개
 ABILITY_BIRD,Bird,鸟,Птица,새
-ABILITY_BIRD_DESC,A bird swoops down to attack the enemies,一只鸟俯冲下来攻击敌人,"Птица пикирует, чтобы атаковать врагов",새 한 마리가 날아와 적을 공격합니다
+ABILITY_BIRD_DESC,A bird swoops down to attack the enemies,一只鸟俯冲下来攻击敌人,"Птица пикирует, атакуя врагов",새 한 마리가 날아와 적을 공격합니다
 ABILITY_OTTER,Otter,水獭,Выдра,수달
 ABILITY_OTTER_DESC,An otter pounces the enemies,一只水獭扑向敌人,Выдра набрасывается на врагов,수달이 적들을 덮칩니다
 ABILITY_WOLFPACK,Wolf Pack,狼群,Волчья стая,늑대 무리
 ABILITY_WOLFPACK_DESC,A pack of wolves attack the enemies,一群狼攻击敌人,Стая волков нападает на врагов,늑대 한 무리가 적을 공격합니다
-ABILITY_ROAR,Roar,吼,Реветь,으르렁거리다
-ABILITY_ROAR_DESC,Fear and damage enemies,恐惧和伤害敌人,Страх и урон врагам,적을 공포에 떨게 하고 피해를 줍니다.
+ABILITY_ROAR,Roar,吼,Рёв,으르렁거리다
+ABILITY_ROAR_DESC,Fear and damage enemies,恐惧和伤害敌人,Вызывает у врагов страх и наносит урон,적을 공포에 떨게 하고 피해를 줍니다.
 UPGRADE_SPEED,Movement Speed,移动速度,Скорость передвижения,이동 속도
-UPGRADE_SPEED_DESC,Increase movement speed,提高移动速度,Увеличить скорость передвижения,이동 속도가 증가합니다.
+UPGRADE_SPEED_DESC,Increase movement speed,提高移动速度,Увеличивает скорость передвижения,이동 속도가 증가합니다.
 UPGRADE_FIRERATE,Fire Rate,射速,Скорострельность,발사 속도
 UPGRADE_FIRERATE_DESC,Increase basic attack speed,提高普攻速度,Увеличивает скорость автоатаки.,기본 공격 속도가 증가합니다.
-UPGRADE_MAGNET,Add Magnet,添加磁铁,Добавить магнит,마그넷 추가
-UPGRADE_MAGNET_DESC,Magnetizes crystals to always come to you,磁化晶体，让晶体总是来到你身边,"Притягивает кристаллы, чтобы они всегда приходили к вам",크리스탈을 자화하여 항상 당신에게 오게 합니다.
-UPGRADE_RANGE,Range,范围,Диапазон,레인지
-UPGRADE_RANGE_DESC,Increase lock-on and projectile range,增加锁定和射弹射程,Увеличение прицеливания и дальности полета снарядов,록온 및 투사체 사거리 증가
-UPGRADE_SCALE,Scale,规模,Шкала,저울
-UPGRADE_SCALE_DESC,Increase projectile and weapon scale,增加弹丸和武器规模,Увеличен масштаб снаряда и орудия,투사체 및 무기 규모 증가
+UPGRADE_MAGNET,Add Magnet,添加磁铁,Магнит,마그넷 추가
+UPGRADE_MAGNET_DESC,Magnetizes crystals to always come to you,磁化晶体，让晶体总是来到你身边,Притягивает кристаллы опыта,크리스탈을 자화하여 항상 당신에게 오게 합니다.
+UPGRADE_RANGE,Range,范围,Радиус атаки,레인지
+UPGRADE_RANGE_DESC,Increase lock-on and projectile range,增加锁定和射弹射程,Увеличение дальности полета снарядов,록온 및 투사체 사거리 증가
+UPGRADE_SCALE,Scale,规模,Размер снарядов,저울
+UPGRADE_SCALE_DESC,Increase projectile and weapon scale,增加弹丸和武器规模,Увеличен размер снаряда и оружия,투사체 및 무기 규모 증가
 UPGRADE_PROJECTILESPEED,Projectile Speed,弹丸速度,Скорость снаряда,투사체 속도
 UPGRADE_PROJECTILESPEED_DESC,Increase projectile speed,提高弹丸速度,Увеличение скорости снаряда,투사체 속도 증가
-PAUSE_TITLE,PAUSED,暂停,ПРИОСТАНОВЛЕНА,일시 중지
-PAUSE_RESUME,Resume Game,恢复游戏,Возобновление игры,게임 재개
-PAUSE_RESTART,Restart Level,重启级别,Уровень перезапуска,재시작 수준
+PAUSE_TITLE,PAUSED,暂停,ПАУЗА,일시 중지
+PAUSE_RESUME,Resume Game,恢复游戏,Возобновить,게임 재개
+PAUSE_RESTART,Restart Level,重启级别,Перезапустить уровень,재시작 수준
 PAUSE_OPTIONS,Options,选项,Параметры,옵션
 STATUS_VICTORY,Victory,胜利,Победа,승리
 STATUS_DEFEAT,Defeat,失败,Поражение,패배
-STATUS_GAMEOVER,GAME OVER,游戏结束,ИГРА ЗАКОНЧЕНА,게임 오버
-SCORE_FLAWLESS,Flawless,完美,Безупречный,완벽
+STATUS_GAMEOVER,GAME OVER,游戏结束,КОНЕЦ ИГРЫ,게임 오버
+SCORE_FLAWLESS,Flawless,完美,Безупречно,완벽
 SCORE_TIME,Time,时间,Время,시간
 SCORE_BOSS,Boss,老板,Босс,보스
-SCORE_HP,HP,惠普,Л.С,마방
+SCORE_HP,HP,惠普,О.З.,마방
 SCORE_OBELISKS,Obelisks,方尖碑,Обелиски,오벨리스크
 UNLOCK_DRUID,Unlock by killing 2 bosses,通过杀死 2 个 Boss 来解锁,"Разблокируйте, убив 2 боссов",보스 2명을 죽이면 잠금 해제
 UNLOCK_ROGUE,"Unlock by collecting 3,500 crystals","通过收集 3,500 颗水晶解锁","Разблокируйте, собрав 3 500 кристаллов","크리스탈 3,500개를 모아 잠금 해제"
@@ -123,34 +123,34 @@ OPTIONS_FULLSCREEN,Full Screen,全屏幕,На весь экран,전체 화면
 OPTIONS_VSYNC,Vsync,垂直同步,Vsync,브이싱크
 OPTIONS_UISCALE,Increase UI Scale,增加 UI 规模,Увеличение масштаба пользовательского интерфейса,UI 배율 늘리기
 OPTIONS_TWITCH,Twitch Integration,Twitch 集成,Интеграция с Twitch,Twitch 통합
-OPTIONS_CONNECT,Connect,连接,Соединять,연결하다
+OPTIONS_CONNECT,Connect,连接,Подключить,연결하다
 OPTIONS_HIGHLIGHT,Highlight Target,突出目标,Выделение цели,타겟 강조 표시
 OPTIONS_DMGNUMBERS,Damage Numbers,损坏数字,Цифры урона,피해 수치
 OPTIONS_CRYSTALS,Crystal Outline,水晶轮廓,Контур кристалла,크리스탈 아웃라인
 OPTIONS_CHARACTER,Character Outline,人物轮廓,Контур персонажа,캐릭터 아웃라인
 OPTIONS_ZOOM,Camera Zoom,相机变焦,Зум камеры,카메라 줌
 OPTIONS_ZOOMOUT,Zoom Out,缩小,Уменьшить масштаб,축소
-OPTIONS_ZOOMDEFAULT,Default,违约,По умолчанию,기본값
-OPTIONS_ZOOMIN,Zoom In,放大,Увеличить,확대
-OPTIONS_CLOSE,Close Options,关闭选项,Закрыть опции,옵션 닫기
-OPTIONS_TITLE,Options Menu,选项菜单,Меню настроек,옵션 메뉴
-OPTIONS_ERASE,Erase Saved Data!,擦除已保存的数据！,Сотрите сохраненные данные!,저장된 데이터를 삭제하세요!
+OPTIONS_ZOOMDEFAULT,Default,违约,Масштаб по умолчанию,기본값
+OPTIONS_ZOOMIN,Zoom In,放大,Увеличить масштаб,확대
+OPTIONS_CLOSE,Close Options,关闭选项,Назад,옵션 닫기
+OPTIONS_TITLE,Options Menu,选项菜单,Настройки,옵션 메뉴
+OPTIONS_ERASE,Erase Saved Data!,擦除已保存的数据！,Удалить данные сохранения!,저장된 데이터를 삭제하세요!
 OPTIONS_ERASETITLE,Are you sure?!,是否确定？！,Уверен?!,확실한가요?!
 OPTIONS_ERASECONFIRM,"Yes, delete my data",是的，请删除我的数据,"Да, удалить мои данные","예, 내 데이터를 삭제합니다."
 OPTIONS_ERASECANCEL,Cancel,取消,Отмена,취소
 OPTIONS_AUDIO,Audio,音频,Аудио,오디오
 OPTIONS_VIDEO,Video,视频,Видео,비디오
 OPTIONS_TWITCHTITLE,Streamer Mode,流光模式,Режим стримера,스트리머 모드
-OPTIONS_TWITCHDESC,Have Twitch chat select your upgrades,让 Twitch 聊天选择您的升级,Как настроить чат Twitch на выбор улучшений,Twitch 채팅에서 업그레이드를 선택하도록 합니다.
+OPTIONS_TWITCHDESC,Have Twitch chat select your upgrades,让 Twitch 聊天选择您的升级,Позвольте чату Twitch выбирать улучшения,Twitch 채팅에서 업그레이드를 선택하도록 합니다.
 OPTIONS_GAME,Game,游戏,Игра,게임
-OPTIONS_MASTER,Master,主人,Хозяин,주
+OPTIONS_MASTER,Master,主人,Общий,주
 OPTIONS_MUSIC,Music,音乐,Музыка,음악
 OPTIONS_SOUNDS,SFX,特效,Звуковые эффекты,음향 효과
 QUIT_TITLE,Are you sure?,是否确定？,Уверен?,확실한가요?
 QUIT_QUIT,Quit Game,退出游戏,Выход из игры,게임 종료
 QUIT_CANCEL,Cancel,取消,Отмена,취소
 LEVELUP_REROLL,Reroll,重新卷起,Реролл,새로고침
-LEVELUP_REROLL_DESC,Reroll does not effect flawless,重卷不会造成完美无瑕的影响,Реролл не дает безупречного эффекта,새로고침은 흠잡을 데 없는 효과를 발휘하지 않습니다.
+LEVELUP_REROLL_DESC,Reroll does not effect flawless,重卷不会造成完美无瑕的影响,Реролл не влияет на получение "безупречного" результата,새로고침은 흠잡을 데 없는 효과를 발휘하지 않습니다.
 LEVELUP_HEALTH,Health,健康,Здоровье,건강
 LEVELUP_LEVEL,Level,水平,Уровень,수준
 LEVELUP_TWITCH_DESC,Type !# in chat to vote for an upgrade,在聊天中输入 ！# 以投票支持升级,"Введите !# в чате, чтобы проголосовать за обновление",채팅에 !#를 입력하여 업그레이드에 투표하세요.
@@ -159,31 +159,31 @@ LEADERBOARD_FRIENDS,Friends Only,仅限朋友,Только для друзей,�
 LEVEL_GOAL,Level Goal,级别目标,Цель уровня,레벨 목표
 LEVEL_TIME,Level Time,关卡时间,Время уровня,레벨 시간
 OBJECTIVE_TIMER,Obelisk Timer,方尖碑计时器,Таймер обелиска,오벨리스크 타이머
-HEALTH_POT_CHANCE,Health Pots,健康花盆,Горшки здоровья,건강 냄비
+HEALTH_POT_CHANCE,Health Pots,健康花盆,Зелья здоровья,건강 냄비
 FORCE_WAVE_SPAWN,Enemy Timer,敌人计时器,Вражеский таймер,적 타이머
 LEVELUP_OF,Of,之,Из,의
 END_NEXT,Go to Next Level,进入下一级别,Перейти на следующий уровень,다음 단계로 이동
-END_RESTART,Restart Level,重启级别,Уровень перезапуска,재시작 수준
-END_BACK,Back to Menu,返回菜单,Назад к меню,메뉴로 돌아가기
-END_COMPLETED,Completed,完成,Завершённый,완료
+END_RESTART,Restart Level,重启级别,Перезапустить уровень,재시작 수준
+END_BACK,Back to Menu,返回菜单,Меню,메뉴로 돌아가기
+END_COMPLETED,Completed,完成,Завершено,완료
 LEVEL_TIME,Level Time,关卡时间,Время уровня,레벨 시간
 BOSS_TIME,Boss Time,老板时间,Время босса,보스 타임
-KILLS,Kills,杀死,Убивает,죽이고
+KILLS,Kills,杀死,Врагов убито,죽이고
 CRYSTALS,Crystals,晶体,Кристаллы,결정
 OBELISKS,Obelisks,方尖碑,Обелиски,오벨리스크
-BOSS_DAMAGE,Boss Damage,BOSS伤害,Урон босса,보스 데미지
+BOSS_DAMAGE,Boss Damage,BOSS伤害,Урон боссу,보스 데미지
 END_SCORE,Score,得分,Счёт,점수
 MAGNET,Magnet,磁铁,Магнит,자석
-PIERCING,Piercing,穿孔,Пронизывающий,피어 싱
+PIERCING,Piercing,穿孔,Пронзание,피어 싱
 SPEED,Speed,速度,Скорость,속도
 HEALTH,Health,健康,Здоровье,건강
 FIRE_RATE,Attack Speed,攻击速度,Скорость атаки,공격 속도
-PROJECTILE_RANGE,Range,范围,Диапазон,레인지
-PROJECTILE_SCALE,Scale,规模,Шкала,저울
+PROJECTILE_RANGE,Range,范围,Радиус атаки,레인지
+PROJECTILE_SCALE,Scale,规模,Размер снаряда,저울
 PROJECTILE_SPEED,Projectile Speed,弹丸速度,Скорость снаряда,투사체 속도
-EFFECTIVE_RANGE,Range,范围,Диапазон,레인지
+EFFECTIVE_RANGE,Range,范围,Радиус атаки,레인지
 REROLLS,Rerolls,重卷,Рероллы,새로고침
-STATS_STATS,Stats,统计,Статистика,통계
+STATS_STATS,Stats,统计,Характеристики,통계
 STATS_ABILITIES,Abilities,能力,Способности,능력
 LEVELUP_LOWER,Lower,降低,Нижний,아래
 LEVELUP_COOLDOWN,Cooldown,冷却时间,Перезарядка,재사용 대기시간
@@ -192,30 +192,30 @@ CHALLENGE_RANDOMMAP,Random Map,随机地图,Случайная карта,랜덤
 CHALLENGE_RANDOMCLASS,Random Class,随机类,Случайный класс,랜덤 클래스
 CHALLENGE_NOREROLLS,No Rerolls,没有重卷,Без рероллов,새로고침 없음
 CHALLENGE_NOOBELISKS,No obelisks,没有方尖碑,Без обелисков,오벨리스크 없음
-CHALLENGE_NOHEALTH,No health pots,没有健康罐,Нет горшков здоровья,건강 냄비 없음
-CHALLENGE_UPGRADES,Always the same upgrades,始终相同的升级,Всегда одни и те же обновления,항상 동일한 업그레이드
+CHALLENGE_NOHEALTH,No health pots,没有健康罐,Нет зелий здоровья,건강 냄비 없음
+CHALLENGE_UPGRADES,Always the same upgrades,始终相同的升级,Всегда одни и те же улучшения,항상 동일한 업그레이드
 CHALLENGE_SKILL,A true test of skill,对技能的真正考验,Настоящее испытание мастерства,진정한 실력 테스트
-TIME_PLAYED,Time Played,播放时间,Сыгранное время,플레이 시간
-OVERALL_SCORE,Overall Score,总体得分,Общий балл,종합 점수
-DUNGEON_RUNS,Dungeon Runs,地牢奔跑,Прохождение подземелий,던전 런
+TIME_PLAYED,Time Played,播放时间,Время игры,플레이 시간
+OVERALL_SCORE,Overall Score,总体得分,Общий счет,종합 점수
+DUNGEON_RUNS,Dungeon Runs,地牢奔跑,Забеги,던전 런
 BOSSES_KILLED,Bosses Killed,老板被杀,Убитые боссы,보스 처치
 LEADERBOARD_NOSCORE,You do not have a score yet,您还没有分数,У вас еще нет счета,아직 점수가 없습니다.
-LEVEL_ARCTIC,Arctic,北极,Арктический,북극
+LEVEL_ARCTIC,Arctic,北极,Вечные льды,북극
 MENU_BACK,Back,返回,Назад,뒤로
 CLASS_OMNISCIENT,Omniscient,全知的,Всезнающий,전지
-ABILITY_CLUSTERSHOT,Cluster Shot,集群拍摄,Кассетный выстрел,클러스터 샷
-ABILITY_CLUSTERSHOT_DESC,An arrow fires into a cluster,一支箭射入一团,Стрела летит в кластер,화살이 무리를 향해 발사됩니다.
+ABILITY_CLUSTERSHOT,Cluster Shot,集群拍摄,Разрывной выстрел,클러스터 샷
+ABILITY_CLUSTERSHOT_DESC,An arrow fires into a cluster,一支箭射入一团,Стрела взрывается кучей осколков,화살이 무리를 향해 발사됩니다.
 ABILITY_SHIELDSLAM,Shield Slam,盾牌猛击,Удар щитом,쉴드 슬램
-ABILITY_SHIELDSLAM_DESC,A shield slams down stunning enemies,一面盾牌砸向眩晕的敌人,Щит обрушивает на землю оглушающих врагов,방패가 적을 기절시킵니다.
+ABILITY_SHIELDSLAM_DESC,A shield slams down stunning enemies,一面盾牌砸向眩晕的敌人,Щит обрушивается на землю, оглушая врагов,방패가 적을 기절시킵니다.
 ABILITY_MACE,Mace,梅斯,Булава,메이스
-ABILITY_MACE_DESC,Maces spin around the knight,狼牙棒绕着骑士旋转,Булавы вращаются вокруг коня,철퇴가 기사 주위를 빙글빙글 돈다.
+ABILITY_MACE_DESC,Maces spin around the knight,狼牙棒绕着骑士旋转,Булавы вращаются вокруг рыцаря,철퇴가 기사 주위를 빙글빙글 돈다.
 ABILITY_SMOKEBOMB,Smoke Bomb,烟雾弹,Дымовая шашка,연막탄
 ABILITY_SMOKEBOMB_DESC,A smoke cloud stuns nearby enemies,一团烟云使附近的敌人眩晕,Облако дыма оглушает ближайших врагов,연막운이 주위 적들을 기절시킵니다
-ABILITY_BANISH,Banish,驱逐,Изгонять,추방하다
-ABILITY_BANISH_DESC,Banish an enemy before it hurts you,在敌人伤害你之前驱逐它,"Изгоните врага, пока он не причинил вам вреда",적이 당신을 다치게 하기 전에 추방하십시오.
-ABILITY_VINEWHIP,Vine Whip,藤鞭,Виноградный кнут,덩굴 채찍
-ABILITY_VINEWHIP_DESC,A vine stuns nearby enemies,一根藤蔓击晕附近的敌人,Лиана оглушает ближайших врагов,덩굴이 주위 적들을 기절시킵니다.
-ABILITY_QUAKE,Quake,地震,Дрожать,흔들리다
-ABILITY_QUAKE_DESC,Stun enemies near you,击晕你附近的敌人,Оглушите врагов рядом с собой,주위 적들을 기절시킵니다.
+ABILITY_BANISH,Banish,驱逐,Изгнание,추방하다
+ABILITY_BANISH_DESC,Banish an enemy before it hurts you,在敌人伤害你之前驱逐它,"Изгоняет врага, который собирается нанести вам урон",적이 당신을 다치게 하기 전에 추방하십시오.
+ABILITY_VINEWHIP,Vine Whip,藤鞭,Плеть,덩굴 채찍
+ABILITY_VINEWHIP_DESC,A vine stuns nearby enemies,一根藤蔓击晕附近的敌人,Плеть оглушает ближайших врагов,덩굴이 주위 적들을 기절시킵니다.
+ABILITY_QUAKE,Quake,地震,Дрожь земли,흔들리다
+ABILITY_QUAKE_DESC,Stun enemies near you,击晕你附近的敌人,Оглушиает врагов рядом с вами,주위 적들을 기절시킵니다.
 ABILITY_BEE,Bee Army,蜜蜂军团,Пчелиная армия,꿀벌 군대
 ABILITY_BEE_DESC,Bees fight along side you,蜜蜂与你并肩战斗,Пчелы сражаются бок о бок с вами,꿀벌은 당신과 함께 싸웁니다
